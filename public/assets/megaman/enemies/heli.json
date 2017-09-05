@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "heli1.png",
+	"frame": {"x":1,"y":59,"w":18,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":8,"w":18,"h":24},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "heli2.png",
+	"frame": {"x":1,"y":85,"w":18,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":7,"w":18,"h":24},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "heli3.png",
+	"frame": {"x":1,"y":1,"w":18,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":5,"w":18,"h":27},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "heli4.png",
+	"frame": {"x":1,"y":30,"w":18,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":5,"w":18,"h":27},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "heli5.png",
+	"frame": {"x":1,"y":137,"w":18,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":9,"w":18,"h":21},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "heli6.png",
+	"frame": {"x":1,"y":160,"w":18,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":8,"w":18,"h":21},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "heli7.png",
+	"frame": {"x":1,"y":183,"w":16,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":11,"w":16,"h":18},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "heli8.png",
+	"frame": {"x":1,"y":111,"w":18,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":7,"w":18,"h":24},
+	"sourceSize": {"w":40,"h":40}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "heli.png",
+	"format": "RGBA8888",
+	"size": {"w":20,"h":202},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b4fdc97671267d189b14e037400e5cd9:5a93cf8b06eeaa4003970640a990b52e:3b46589700e659b455c74dd68518a9c4$"
+}
+}

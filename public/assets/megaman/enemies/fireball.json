@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "fireball1.png",
+	"frame": {"x":1,"y":1,"w":10,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":10,"h":10},
+	"sourceSize": {"w":20,"h":20}
+},
+{
+	"filename": "fireball2.png",
+	"frame": {"x":13,"y":1,"w":10,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":10,"h":10},
+	"sourceSize": {"w":20,"h":20}
+},
+{
+	"filename": "fireball3.png",
+	"frame": {"x":25,"y":1,"w":10,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":10,"h":10},
+	"sourceSize": {"w":20,"h":20}
+},
+{
+	"filename": "fireball4.png",
+	"frame": {"x":37,"y":1,"w":10,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":5,"w":10,"h":10},
+	"sourceSize": {"w":20,"h":20}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fireball.png",
+	"format": "RGBA8888",
+	"size": {"w":48,"h":12},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:31565423ce8c5d763abb0744915b935f:e25f6bc1cbb2adf16f7024e08170dfea:cf4d7da423ed931a533dcca7b8983428$"
+}
+}

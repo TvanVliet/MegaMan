@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "bossguy1.png",
+	"frame": {"x":1,"y":1,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":6,"w":34,"h":34},
+	"sourceSize": {"w":45,"h":45}
+},
+{
+	"filename": "bossguy2.png",
+	"frame": {"x":1,"y":37,"w":34,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":5,"w":34,"h":33},
+	"sourceSize": {"w":45,"h":45}
+},
+{
+	"filename": "bossguy3.png",
+	"frame": {"x":1,"y":72,"w":33,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":33,"h":33},
+	"sourceSize": {"w":45,"h":45}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bossman.png",
+	"format": "RGBA8888",
+	"size": {"w":36,"h":106},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5e19099ded5f126ff14128d9d6ef8599:e8b7aaec8aa0b4f5042079e24dec33b4:a3cbc71f7f3a8da3ded8312248ce54da$"
+}
+}

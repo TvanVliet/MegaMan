@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+		<link href="https://fonts.googleapis.com/css?family=Gabriela" rel="stylesheet">
+			<title>Megaman</title>
+
+		<script type="text/javascript" src="js/phaser.js"></script>
+		<script src="js/boot.js"></script>
+		<script src="js/preload.js"></script>
+		<script src="js/mainmenu.js"></script>
+		<script src="js/game.js"></script>
+		<script src="js/stage2.js"></script>
+		<script src="js/stage3.js"></script>
+		<script src="js/boss.js"></script>
+		<script src="js/win.js"></script>
+
+		<style>
+			body {
+				padding: 0px;
+				margin: 0px;
+				background: black;
+			}
+		</style>
+	</head>
+
+
+	<body>
+
+		<script>
+			(function() {
+				var game = new Phaser.Game(760, 360, Phaser.AUTO, "game");
+						game.state.add("Boot",boot);
+						game.state.add("Preload",preload);
+						game.state.add("MainMenu", mainMenu);
+						game.state.add("Game", Game);
+						game.state.add("Stage2",Stage2);
+						game.state.add("Stage3",Stage3);
+						game.state.add("Boss", Boss);
+						game.state.add("Win", Win);
+						game.state.start("Boot");
+					})();    
+		</script>
+
+
+		
+		
+	</body>
+</html>

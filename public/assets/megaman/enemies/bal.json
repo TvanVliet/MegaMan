@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "bal1.png",
+	"frame": {"x":1,"y":1,"w":22,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":22,"h":11},
+	"sourceSize": {"w":35,"h":25}
+},
+{
+	"filename": "bal2.png",
+	"frame": {"x":25,"y":1,"w":22,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":6,"w":22,"h":11},
+	"sourceSize": {"w":35,"h":25}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bal.png",
+	"format": "RGBA8888",
+	"size": {"w":48,"h":13},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2f3b2da20a8a03c92cc3462a8807c411:67c7b2ae00caf377d21f6537bf4be5c0:0cdf80723c1bdad4744ddba87b822e84$"
+}
+}

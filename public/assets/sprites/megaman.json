@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "megarunR1.png",
+	"frame": {"x":72,"y":84,"w":33,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":33,"h":36},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "megarunR2.png",
+	"frame": {"x":1,"y":82,"w":33,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":33,"h":37},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "megarunR3.png",
+	"frame": {"x":1,"y":1,"w":40,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":40,"h":37},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "megarunR4.png",
+	"frame": {"x":36,"y":84,"w":34,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":34,"h":36},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "megastand.png",
+	"frame": {"x":43,"y":1,"w":35,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":35,"h":39},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "megastand2.png",
+	"frame": {"x":1,"y":40,"w":35,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":35,"h":40},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "megastand3.png",
+	"frame": {"x":38,"y":42,"w":35,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":35,"h":40},
+	"sourceSize": {"w":40,"h":40}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "megaman.png",
+	"format": "RGBA8888",
+	"size": {"w":106,"h":121},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a3698a2c32ef43ec2ee5b121937edc78:20903d72b9fc0bd05a19943df822ce15:fd24840a6b550dffb098fa645ec31f13$"
+}
+}
