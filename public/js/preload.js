@@ -15,7 +15,7 @@ preload.prototype = {
         this.load.audio('titlescreenmusic', ['assets/audio/titlescreen.mp3']);
         this.load.audio('winMusic', ['assets/audio/youwin.mp3']);
         this.load.audio('wahoo', ['assets/audio/wahoo.wav']);
-        this.load.audio('fkst', ['assets/audio/fuckshit.wav'])
+        this.load.audio('fkst', ['assets/audio/bossauw.wav'])
 
         //images
 		this.load.atlasJSONArray('megaman', 'assets/megaman/player/megamanRun1.png', 'assets/megaman/player/megamanRun1.json', 50, 50);
